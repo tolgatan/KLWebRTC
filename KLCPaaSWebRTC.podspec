@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name              = 'CPaaSWebRTC'
+    s.name              = 'KLCPaaSWebRTC'
     s.version           = '1.0.0'
     s.summary           = 'CPaasWebRTC'
     s.homepage          = 'https://github.com/Kandy-IO/'
